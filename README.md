@@ -4,6 +4,6 @@ This is my first assignment for the UCB Bootcamp. It is a code refractor of the 
 
 Here is the [link to the website](https://sam-levin.github.io/Sams-UCB-Refractor/) 
 
-Here is a screenshot of the img ![screenshot of the hero of the webpage](https://github.com/sam-levin/Sams-UCB-Refractor/blob/main/screenshot-1?raw=true)
+Here is a screenshot of the img ![screenshot of the hero of the webpage](https://github.com/sam-levin/Sams-UCB-Refractor/blob/main/screenshot-1.png?raw=true)
 
 
